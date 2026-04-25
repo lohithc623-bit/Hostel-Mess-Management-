@@ -1,0 +1,8 @@
+{
+  "name": "Hostel Mess Management",
+  "description": "A full-stack system for managing hostel mess registrations, QR-based meal attendance, and automated fine systems.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
